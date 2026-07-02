@@ -1,0 +1,8 @@
+{"Name":"dinosuar","Power":{"Min":9,"Max":10},"Color":"[\"green\",\"red\"]"}
+{"Name":"angel","Power":{"Min":6,"Max":8},"Color":"[\"white\",\"black\"]"}
+{"Name":"demon","Power":{"Min":6,"Max":8},"Color":"[\"blue\",\"black\"]"}
+{"Name":"merfolk","Power":{"Min":3,"Max":6},"Color":"[\"blue\",\"white\"]"}
+{"Name":"goblin","Power":{"Min":0,"Max":3},"Color":"[\"black\",\"red\"]"}
+{"Name":"human","Power":{"Min":0,"Max":4},"Color":"[\"blue\",\"white\",\"black\",\"red\",\"green\"]"}
+{"Name":"spider","Power":{"Min":3,"Max":6},"Color":"[\"green\",\"black\"]"}
+{"Name":"dragon","Power":{"Min":5,"Max":10},"Color":"[\"green\",\"black\",\"white\",\"red\",\"blue\"]"}
