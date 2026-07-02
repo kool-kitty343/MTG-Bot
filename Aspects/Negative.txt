@@ -1,0 +1,1 @@
+{"Modifier":"-5","Text":"put a -1/-1 counter on all creatures","Task":""}
