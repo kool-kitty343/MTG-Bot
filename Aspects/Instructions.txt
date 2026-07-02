@@ -1,0 +1,7 @@
+{"Modifier":"x","Text":"[insert text here]","Task":"[insert tesk here]"}
+
+set x to +[number] for positive or -[number if negative]
+
+set text to description of aspect
+
+set task to what aspect should do on its own when used; you can leave this blank
